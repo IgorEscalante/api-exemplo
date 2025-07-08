@@ -1,0 +1,17 @@
+{
+  "name": "api-exemplo",
+  "version": "1.0.0",
+  "description": "API exemplo para GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Igor Escalante",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
